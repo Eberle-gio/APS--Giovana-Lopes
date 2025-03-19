@@ -1,0 +1,36 @@
+aula 2
+
+7 fase do ciclo de vida de um software são baseados na literatura utilizada:
+
+- Levantamento de dados: Fase inicial do software onde as informações essenciais são levantados para entender as necessidades que o cliente possui e que o usuário final deseja.
+
+- Analise de requisitos: Com os dados coletados já é possível o desenvolvimento do documento do projeto com os requisitos funcionais e não funcionais. Quanto melhor executada essa fase mais se evitará falhas durante o escopo alinhando as expectativas.
+
+Modelagem: Nesta fase é feito a estruturação do software onde são criado diagramas e modelos para auxiliar o desenvolvimento para entender as partes relacionadas dentro do processo.
+
+Codificação: Aqui é feito a codificação do código fonte do projeto utilizando de base os requisitos já pré-definidos usando as boas práticas para uma melhor qualidade.
+
+Testes: Antes da implantação do software é necessário que ele passe pela etapa de teste que demonstra se o desempenho e utilização de software está adequado para o usuário final, se não podendo corrigir antes da entrega final.
+
+Implantação: Se bem sucedidos os testes o software é disponibilizado para os usuários finais, podendo ter a implantação de maneira gradual ou completa, varia de acordo com a complexidade do projeto.
+
+Manutenção: Mesma a entrega do projeto ele continua sendo monitorado e atualizado conforme a necessidade, a manutenção pode envolver a melhoria de algo ou apenas a resolução de bugs
+
+
+Modelo é a forma em que se aplica o ciclo de vida do software
+Cascata: problemas que podem acontecer erro de comunicação.
+
+Incremental: Calcular o mínimo que o cliente quer gerando menor tempo na incrementação, mas os problemas continuam só que em menor escala.
+
+Espiral: O cliente ou o representante dos cliente participa de todas as fases do ciclo melhorando assim os problemas.
+
+
+4 VALORES DA METODOLOGIA ÁGIL
+
+Cliente: dar valor a comunicação com o cliente do que a criação de contratos.
+
+Equipe de software: dar valor ao profissionais da equipe ao invés dos equipamentos utilizados.
+
+Processo: É melhor estar aberto a mudanças para caso o plano não esteja de acordo mais do que permanecer no projeto inválido.
+
+Software: É mais viável deixar o software utilizável do que documentar de maneira extensa.
