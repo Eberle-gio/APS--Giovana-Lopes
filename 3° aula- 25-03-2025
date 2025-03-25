@@ -1,0 +1,36 @@
+AULA 03 - DEV 
+
+
+O modelo cascata foi criado para existir uma maneira de entrega e metodo de de realizações de projetos, mas com os problemas derivados dele como apenas uma entrega no final do projeto, alto custo e grande risco do cliente não precisar mais do projeto no final da entrega já 
+não existe a validação e verificação com o cliente foi criado o modelo incremental que melhorava o conceito de apenas uma entrega, agora tendo varias ao decorrer do projeto, o que diminuiu grandes problemas em pequenos, mas permanecia ainda tendo pouca interação com o cliente.
+Como solução ao problema do modelo incremental foi desenvolvido o modelo espiral que uni as varias entregas do modelo increment5al com a alta participação do cliete no desenvolvimento do projeto o que reduziu erros e os custos com o projeto, com tudo iso ainda foram criados
+as metodologias ageis para a melhor utilizações desses modelos, de maneira mais facil, evitando divergencias e erros na execução do porjeto.
+Levantamento de requisitos
+
+Um bom levantamento de requisitos evita problemas futuros durante o software, é necessário conhecer certo, analisar certo e descrever certo.
+Alguns problemas que pode acontecer é a má comunicação com o cliente que gera problema para todos, a má interpretação dos dados coletados mesmo que esteja correta as informações além de que uma má descrição gera problemas com o processamento do projeto.
+
+Técnicas de levantamento de dados:
+
+- Pesquisa de mercado: ter um bom conhecimento do mercado para que se está se desenvolvendo para uma melhor elaboração de projeto.
+
+- Entrevista: contato com o cliente para que se tenha o melhor entendimento do que será necessário e quais os problemas.
+
+- Etnografia: Saber com qual domínio estamos lidando, como a empresa funciona, a cultura da empresa.
+
+- Observação: é uma sub categoria da etnografia, mas com limitações de empresas em questão de participação interativa da linha de produção por exemplo.
+
+- Questionário: De forma mais limitado e objetivo o questionário é utilizado dependendo da situação, como quantidade de funcionários ou aceitação.
+
+- Workshop: quando se está com dificuldade de entender do que precisa ser feita.
+
+- JAD: utiliza do conhecimento do workshop para definir a melhor maneira de como ser feito.
+
+- Protótipo: existe duas maneiras, a prática e o conceitual para que o cliente entenda o sistema e como ele funcionará, fazendo assim a validação.
+
+- Analise documental: analise de todo documento da empresa que te auxilia no entendimento como relatórios e documentos de setor.
+
+- Permissões: é necessário entender quais as permissões seriam precisas para o desenvolvimento do sistema.
+
+- Cuidado com a comunicação: as vezes existe uma comunicação enviesada de algum funcionário da equipe o que gera um desvio do interesse real do funcionário.
+
