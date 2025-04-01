@@ -1,0 +1,32 @@
+Hoje contamos com uma pesquisa de mercado onde utilizamos a biblioteca como material de estudo já que tem uma estrutura parecida de emprestimos - DEV
+
+Steakholders : partes interessadas no projeto seja cliente e parte da TI.
+
+Edmar : trabalha na assistencia de alunos do campus IFPR para auxiliar professores e alunos no geral ou com demandas especifícas, uma dessas funções é o empréstimo de materiais, armarios e chaves.
+Ele acompanha a jornada dos alunos desde os primeiros dias de campus até sua formação dentro da instituição.
+Tem melhor lembrança pela voz dos alunos do que pelo visual.
+
+Controle de emprestimo de materiais que pode gerar um melhor empenho do aluno em avaliações ou entreterimento.
+Identificação de material. 
+Identificação de aluno : qual curso e serie.
+Identificação professor : qual turma e serie que irar utilizar.
+Horario de entrada.
+Horario de devolução.
+
+Existe uma preocupação com o bem estar dos alunos por conta de bullying, exclusão por raça, orientação sexual para auxiliar em uma instituição de qualidade.
+Materiais de emprestimo são de consumo próprio então não possuem codificação como os de longa duração que possuem o inventário.
+Não possuem sistema de empréstimo para controle de entrada e saida de materiais sem ser o manual.
+
+Controle de alunos, entrada e saida de intervalo principalmente no ensino médio.
+
+Maior desafio: não possuia controle de bens o que ocasionou na perda de alguns materiais e com isso foi revogado a ideia de não marcar.
+Retirada e entrega no mesmo dia.
+
+Após 3 meses de material perido de alunos eles se tornam hábil a empréstimos.
+
+As técnicas utilizadas hoje foram principalmente a entrevista com o Edmar para ter o melhor conhecimento sobre o processo da assistência estudantil.
+As dificuldades encontradas nesse meio é a questão de devolução de bens que pode ter erros como o esquecimento que geram transtornos.
+Os cuidados devem ser com os tipos de materiais, separar por categoriais de bens e areas.
+Cuidados com os dados dos alunos.
+Podemos contornar esses probelmas com um sistema que categorize os materiais, o cadastramento desses bens no sistema para que possa ter o maior controle de retirada e devolução.
+Ter a baixa de confirmação.
