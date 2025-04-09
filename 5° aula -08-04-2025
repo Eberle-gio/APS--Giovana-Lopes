@@ -1,0 +1,50 @@
+5° aula APS
+
+Organização prática de requisitos no foco da rastreabilidade
+
+1° Fase: Rastreabilidade 
+É a fase onde entendemos os requisitos e decompomos eles para criarmos uma ligação com os requisitos especifícos para facilitar na pesquisa e manuteção deles, podendo haver mais de um requisito principal.
+
+2° Fase: Identificar os principais
+A identificação do principais requisitos é cruscial para que fique claro o escopo do projeto, por isso a decomposição é tão importante durante todo o processo.
+
+3° Fase: Especificar os requisitos de forma correta, clara e coerente para que não ocorra erros ou falhas durante a construção do escopo
+
+4° Fase : Identificação dos autores
+É necessário identificar os autores importantes e menos importantes, msa agrupa-los conforme a necessidade para que os semelhantes permançam juntos.
+
+5° Fase : Complementação Funcional
+Associar funcionalidades a cada autor, ou parte do sistemas que tem necessidade de realizar gestões ou acesso aos itens.
+
+6° Fase: Funcionalidades Fora do Escopo inical.
+São funcionalidades a parte de um escopo inicial que não são importanytes para a realização completa do projeto, mas são pedidos do cliente agregando muitas vezes alto custo ao projeto já que são sistemas a partes.
+
+Documentação de requisitos
+
+1 fase: rastreabilidade
+- Código identificador de requisitos
+- Conexão entre requisitos especificos e a analises dos requisitos
+- Permitir ligações ligar cada requisito a sua funcionalidade, testes, casos de usos
+
+2 fase: Identificação de Cadastros/Entidades
+-Identificar as principais entidades envolvidas no sistema.
+
+3 fase: Identificação de depencias
+- Nessa etapa realizamos as relações que ocorreram entre as entidades, associaçõa de cardinalidades.
+
+4 fase: Definição de campos e características das entidades
+- Aqui se define os campos obrigatórios e os opcionais juntamente de suas características
+
+5 fase: Identificação de regras de negocio
+- Definir regras, legislações que serão utilizadas
+
+6 fase: Identicação de requisitos 
+- Desempenho: O sistema deve processar e enviar ordens de compra e venda de ações em até 50 milissegundos.
+- Segurança: O sistema não deve expor o número completo do CPF nos logs.
+- Usabilidade: O sistema deve destacar visualmente dados inválidos e exibir uma mensagem clara e objetiva, sem jargões técnicos.
+- Disponibilidade: O sistema de prontuário eletrônico deve ter disponibilidade mínima de 99,95%, operando 24/7 para garantir acesso contínuo aos dados dos pacientes.
+- Compatibilidade: A aplicação deve ser responsiva e funcionar corretamente nos principais navegadores;
+- Confiabilidade: O sistema deve garantir que os dados enviados pelos usuários não sejam perdidos em caso de falha de conexão.
+
+Fase 07 - FORMATAÇÃO
+Com a análise defina, basta formatar com um padrão reconhecível e iquestionável. Especifique a fonte e/ou padrão utilizada.
