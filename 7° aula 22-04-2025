@@ -1,0 +1,48 @@
+A UML surgiu para a o melhoramento da comunicação com o cliente já que as vezes o cliente não entende sem algo visual, então com a diagramação
+
+Diagrama de dois tipo
+
+- Estrururais
+Define toda a estrutura de sistema e como vai funcionae, diagrama mais tecnico, mas valiosos para a equipe tecnica.
+
+- Comportamentais
+Define os comportamentos do sistema trazendo para mais proximo do cliente fazendo com que ele entenda.
+
+A documentação deve ser enxuta para que seja mais entendiveis perante a todos gerando menos custos durantes os processos e não colocando toda uma equipe de desenvolvolvimento.
+
+<<include>> = inclui sempre um componente de outro. de cá pra lá
+<<extend>> = pode se extender opcionalmente a outro sistema. de lá pra cá
+linha pontilhada é relacionamento fraco.
+
+@startuml
+left to right direction
+actor usu as "Usuario"
+actor adm as "Administrador"
+rectangle "Sistema de reserva de Materiais"{
+    usecase "fornecer bem de consumo" as UC1
+    usecase "Realizar emprestimo de bem duravel" as UC2
+    usecase "Verificar disponibilidade" as UC3
+    usecase "Cadastrar bem durável" as UC4
+    usecase "Cadastrar bem de consumo" as UC5
+    usecase "Devolver um bem durável" as UC6
+    usecase "Notificar quando bem dúravel exceder o prazo de devolução" as UC7
+    usecase "Excluir cadastro de bem de consumo" as UC8
+    usecase "Excluir cadastro de bem durável" as UC9
+    UC2 .> UC3 : <<include>>
+    UC1 .> UC3 : <<include>>
+    UC7 .> UC2 : <<include>>
+
+}
+usu --> UC3
+adm --> UC1
+adm --> UC2
+adm --> UC4
+adm --> UC5
+adm --> UC6
+adm --> UC7
+adm --> UC8
+adm --> UC9
+adm --|> usu
+
+
+@enduml
