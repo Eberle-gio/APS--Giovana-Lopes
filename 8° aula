@@ -1,0 +1,26 @@
+03/06/2025
+
+Visão geral do sistema, deve se algo sucinto que mostre as características do sistema
+
+introdução deve mostrar da onde veio e para quem é além da motivação do desenvolvimento
+
+escopo, deve conter tudo que o artigo abrange mas de forma sem se aprofundar muito já que tem uma sessão separada além de que precisamos entender para quem o sistema será, se é voltado pros clientes ou para o back office, 
+
+
+levantamento de requisitos
+
+LRP - Levantamento Requisito Principal
+aqui vc fala de forma geral o que o sistema fará
+
+O sistema deve gerenciar o Empréstimo de itens e Achados e perdidos
+
+LRE - Levantamento de Requisitos Específicos
+aqui vamos separar em módulos oq falamos na LRP
+
+O sistema irá gerenciar Empréstimos de materiais
+O sistema devera ter o controle dos Achados e perdidos
+
+
+diferença entre a analise e levantamento de requisitos
+levantamento é o que o cliente quer e disse
+analise é o que o analista entende e descreve
